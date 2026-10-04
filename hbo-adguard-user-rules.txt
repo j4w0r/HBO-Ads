@@ -1,5 +1,5 @@
 ! --- HBO MAX / MAX APP MASTER CUSTOM BLOCKING LIST (AdGuard Home / DNS) ---
-! Version: 2025-12-26 (clean and stable)
+! Version: 2026-10-04 (clean and stable)
 ! Purpose: Combine ad and manifest nullification rules for HBO / Max.
 ! Safe for Onn TV, Android TV, and PC setups with AdGuard Home
 ! === 1) CORE AD / TELEMETRY BLOCKS ===
@@ -9,9 +9,10 @@
 /^([a-z0-9-]+\.)?fwmrm\.net$/
 /^[0-9a-z-]+\.v\.fwmrm\.net$/
 ||cf.amer-free.prd.media.max.com^$important
-||gmss.*.prd.api.discomax.com^$important
 ||gcp.amer-free.prd.media.max.com^$important
 ||fly.amer-free.prd.media.max.com
 ||akm.amer-free.prd.media.max.com
+||fly.amer-free.prd.media.cnn.com
+||gmss.*.prd.api.discomax.com^$important
 /^([^.]+\.)*dnitv\.com$/
 
