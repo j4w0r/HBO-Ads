@@ -14,5 +14,10 @@
 ||akm.amer-free.prd.media.max.com
 ||fly.amer-free.prd.media.cnn.com
 ||gmss.*.prd.api.discomax.com^$important
+||cf.emea-free.prd.media.max.com^$important
+||gcp.emea-free.prd.media.max.com^$important
+||fly.emea-free.prd.media.max.com
+||akm.emea-free.prd.media.max.com
+||fly.emea-free.prd.media.cnn.com
 /^([^.]+\.)*dnitv\.com$/
 

@@ -3,7 +3,7 @@
 # License: Public Domain
 # Version: 2026-10-04
 # Expires: 1 day (update frequently)
-# Domain count: 13
+# Domain count: 18
 # =================================================================
 0.0.0.0 litix.io
 0.0.0.0 *.litix.io
@@ -16,5 +16,10 @@
 0.0.0.0 akm.amer-free.prd.media.max.com
 0.0.0.0 fly.amer-free.prd.media.cnn.com
 0.0.0.0 gmss.use2.prd.api.discomax.com
+0.0.0.0 cf.emea-free.prd.media.max.com
+0.0.0.0 gcp.emea-free.prd.media.max.com
+0.0.0.0 fly.emea-free.prd.media.max.com
+0.0.0.0 akm.emea-free.prd.media.max.com
+0.0.0.0 fly.emea-free.prd.media.cnn.com
 0.0.0.0 dnitv.com
 0.0.0.0 *.dnitv.com
